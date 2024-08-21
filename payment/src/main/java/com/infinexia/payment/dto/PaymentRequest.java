@@ -14,4 +14,5 @@ public class PaymentRequest {
     private String description;
     private String payee_name;
     private String reference;
+    private String json_data;
 }
